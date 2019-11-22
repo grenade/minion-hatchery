@@ -1,0 +1,11 @@
+[package]
+name = "minion-hatchery"
+version = "0.0.1"
+authors = ["Rob Thijssen <rthijssen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.9"
+env_logger = "0.7.1"
+log = "0.4.8"
+yaml-rust = "0.4.3"

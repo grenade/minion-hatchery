@@ -1,0 +1,4 @@
+---
+taskcluster:
+  api:
+    queue: 'https://firefox-ci-tc.services.mozilla.com/api/queue/v1'
